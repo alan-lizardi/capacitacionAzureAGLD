@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/1620f506-8e2a-437c-ae19-cb994c01e8c7/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/alangod",
+    "appService.deploySubpath": "."
+}
